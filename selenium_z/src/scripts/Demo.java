@@ -12,6 +12,7 @@ public class Demo {
 		FirefoxDriver driver= new FirefoxDriver();
 		Thread.sleep(5000);
 		driver.close();
+		Sysout
 		}
 	}
 
