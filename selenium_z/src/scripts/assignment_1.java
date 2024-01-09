@@ -16,5 +16,7 @@ public class assignment_1 {
 		driver.findElement(By.xpath("//input[@id='password']")).sendKeys("12345678");
 		Thread.sleep(2000);
 		driver.findElement(By.xpath("//button[@type='submit']")).click();
+		System.out.println("hello");
+		
 }
 }
